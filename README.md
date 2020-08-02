@@ -1,4 +1,3 @@
-"# deep_learning_specialisation_assignments" 
-"# Attrition_prediction" 
-"# Attrition_prediction" 
-"# attrition_prediction" 
+Attrition_prediction using LightGBM model
+Dataset : The dataset that is published by the Human Resource department of IBM  and it is available at Kaggle
+
